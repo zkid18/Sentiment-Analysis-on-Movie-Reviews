@@ -29,6 +29,6 @@ http://www.cs.cornell.edu/People/pabo/movie-review-data/
 
 | Techniques        | Accuracy           | AUC  |
 | ------------- |:-------------:| -----:|
-| LSTM     | 0.8 | 0.81 |
+| LSTM     | 0.738 | 0.819 |
 | LSTM+Dropout      | 0.805      |   0.806 |
 | LSTM+CNN | 0.795     |    0.796 |
