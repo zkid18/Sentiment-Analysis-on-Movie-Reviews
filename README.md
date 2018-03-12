@@ -4,7 +4,7 @@ Sentiment classifier using the rotten tomatoes movie review dataset
 The dataset was downloaded from this source:
 http://www.cs.cornell.edu/People/pabo/movie-review-data/
 
-Count Vectorizer
+####  Tokenization - Count Vectorizer
 
 | Techniques        | Accuracy           | AUC  |
 | ------------- |:-------------:| -----:|
@@ -13,19 +13,19 @@ Count Vectorizer
 | SVM | 0.795     |    0.796 |
 | SVM | 0.795     |    0.796 |
 
-TF-IDF
+#### Tokenization - TF-IDF
 
 | Techniques        | Accuracy           | AUC  |
 | ------------- |:-------------:| -----:|
 | SVM | 0.795     |    0.796 |
 
-Vowpal Wabbit
+#### Vowpal Wabbit
 
 | Accuracy           | AUC  |
 | ------------- |:-------------:|
 | 0.785     |    0.896 |
 
-Deep Learning
+#### Deep Learning
 
 | Techniques        | Accuracy           | AUC  |
 | ------------- |:-------------:| -----:|
