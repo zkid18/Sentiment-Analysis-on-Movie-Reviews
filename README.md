@@ -5,7 +5,9 @@ The dataset was downloaded from this source:
 http://www.cs.cornell.edu/People/pabo/movie-review-data/
 
 The perfomance metric - Area under the curve (AUC). This metric calculates the overall performance of a classification model based on area under the ROC curve
+
 Receiver operating characteristic (ROC) curve: plots the true positive rate (TPR) versus the false positive rate (FPR) as a function of the model’s threshold for classifying a positive
+
 Accuracy - TPR
 
 ####  Tokenization - Count Vectorizer
