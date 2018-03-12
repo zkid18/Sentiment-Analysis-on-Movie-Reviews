@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Movie-Reviews
+# Sentiment Analysis on Movie Reviews
 Sentiment classifier using the rotten tomatoes movie review dataset
 
 The dataset was downloaded from this source:
