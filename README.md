@@ -27,8 +27,8 @@ http://www.cs.cornell.edu/People/pabo/movie-review-data/
 
 #### Deep Learning
 
-| Techniques        | Accuracy           | AUC  |
-| ------------- |:-------------:| -----:|
-| LSTM     | 0.738 | 0.819 |
-| LSTM+Dropout      | 0.805      |   0.806 |
-| LSTM+CNN | 0.795     |    0.796 |
+| Techniques        | Epochs          | Batch size          | Accuracy           | AUC  |
+| ------------- |:-----:| |:-----:||:-------------:|-----:|
+| LSTM     | 5 | 64 | 0.738 | 0.819 |
+| LSTM+Dropout      | 5 | 128 |0.805      |   0.806 |
+| LSTM+CNN | 0.795     | 5 | 64 |    0.796 |
