@@ -4,7 +4,7 @@ Sentiment classifier using the rotten tomatoes movie review dataset
 The dataset was downloaded from this source:
 http://www.cs.cornell.edu/People/pabo/movie-review-data/
 
-The perfomance metric - *Area under the curve (AUC)*. This metric calculates the overall performance of a classification model based on area under the ROC curve
+The performance metric - *Area under the curve (AUC)*. This metric calculates the overall performance of a classification model based on area under the ROC curve
 
 *Receiver operating characteristic (ROC) curve*: plots the true positive rate (TPR) versus the false positive rate (FPR) as a function of the model’s threshold for classifying a positive
 
@@ -40,5 +40,5 @@ The perfomance metric - *Area under the curve (AUC)*. This metric calculates the
 | LSTM+CNN | 5     | 64 | 0.715 |    0.801 |
 
 TO-DO:
-1. Improve prepocessing using [stemming, lemmatization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) and stop-words
+1. Improve preprocessing using [stemming, lemmatization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) and stop-words
 2. Lean more about Deep learning NLP application and make more robust architecture
