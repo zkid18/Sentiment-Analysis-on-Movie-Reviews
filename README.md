@@ -36,8 +36,8 @@ The perfomance metric - *Area under the curve (AUC)*. This metric calculates the
 | Techniques        | Epochs          | Batch size          | Accuracy           | AUC  |
 | ------------- |:-----:|:-----:|:-------------:|-----:|
 | LSTM     | 5 | 64 | 0.738 | 0.819 |
-| LSTM+Dropout      | 5 | 128 |0.805      |   0.806 |
-| LSTM+CNN | 5     | 64 | 0.795 |    0.796 |
+| LSTM+Dropout      | 5 | 128 |0.652      |   0.687 |
+| LSTM+CNN | 5     | 64 | 0.715 |    0.801 |
 
 TO-DO:
 1. Improve prepocessing using [stemming, lemmatization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) and stop-words
