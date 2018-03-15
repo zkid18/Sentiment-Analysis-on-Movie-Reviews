@@ -8,7 +8,7 @@ The performance metric - *Area under the curve (AUC)*. This metric calculates th
 
 *Receiver operating characteristic (ROC) curve*: plots the true positive rate (TPR) versus the false positive rate (FPR) as a function of the model’s threshold for classifying a positive
 
-*Accuracy* - TPR
+*Accuracy* - (TP + TN)/(TP+TN+FP+FN)
 
 ####  Tokenization - Count Vectorizer
 
